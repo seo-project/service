@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+vendor/
+
+# Logs
+*.log
+
+# IDE
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Other
+Dockerfile
